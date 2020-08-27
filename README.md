@@ -5,6 +5,7 @@ Slides: https://docs.google.com/presentation/d/1sSIhdW0OnE7B8oqJe3kfaO75o7P1pCGg
 Dart packages: https://www.pub.dev
 
 
+![app preview](https://i.imgur.com/ytsjyCi.png)
 
 Images:
 BTS - https://i.imgur.com/rKgwAT1.jpg  
