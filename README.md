@@ -7,11 +7,11 @@ Dart packages: https://www.pub.dev
 
 
 Images:
-BTS - https://i.imgur.com/rKgwAT1.jpg
-The Weeknd - https://i.imgur.com/xxtBCUI.jpg
-Lady Gaga - https://i.imgur.com/ZTXge7q.png
-Jason Derulo - https://i.imgur.com/b5sLtkw.jpg
-Conan Grey - https://i.imgur.com/Oszg6pY.jpg
-Harry Styles - https://i.imgur.com/jhl8XGA.jpg
-Taylor Swift - https://i.imgur.com/5zjJSwu.jpg
-Cardi B - https://i.imgur.com/WVX43P0.jpg
+BTS - https://i.imgur.com/rKgwAT1.jpg  
+The Weeknd - https://i.imgur.com/xxtBCUI.jpg  
+Lady Gaga - https://i.imgur.com/ZTXge7q.png  
+Jason Derulo - https://i.imgur.com/b5sLtkw.jpg  
+Conan Grey - https://i.imgur.com/Oszg6pY.jpg  
+Harry Styles - https://i.imgur.com/jhl8XGA.jpg  
+Taylor Swift - https://i.imgur.com/5zjJSwu.jpg  
+Cardi B - https://i.imgur.com/WVX43P0.jpg  
